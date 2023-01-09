@@ -2,6 +2,13 @@
 
 <img width="1145" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٥ في ٧ ٥٧ ٣٧ م" src="https://user-images.githubusercontent.com/56774274/211209197-03568243-7b50-451d-ae07-52bb0d87b93f.png">
 
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٥ في ٧ ٤٠ ٢٧ م" src="https://user-images.githubusercontent.com/56774274/211366652-34b003dc-8e7e-42f6-b551-686184d6bfb9.png">
+
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٥ في ٧ ٤٠ ٢٧ م" src="https://user-images.githubusercontent.com/56774274/211366698-18d65e4e-6d69-451d-a064-88a8f4373626.png">
+
+<img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٥ في ٧ ٤٠ ٣٠ م" src="https://user-images.githubusercontent.com/56774274/211366713-25320896-6e2b-49a0-81c5-ce9bb2ed3bfc.png">
+
+
 <img width="1440" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١١ في ١٠ ٢١ ٣٢ م" src="https://user-images.githubusercontent.com/56774274/210633445-0602ecc6-1435-4c23-9627-1022b8f2b430.png">
 
 <img width="911" alt="‏لقطة الشاشة ١٤٤٤-٠٦-١٥ في ٨ ٠٤ ٥٠ م" src="https://user-images.githubusercontent.com/56774274/211209362-de874922-992b-4525-b5ee-a8d0fbc1d6cc.png">
