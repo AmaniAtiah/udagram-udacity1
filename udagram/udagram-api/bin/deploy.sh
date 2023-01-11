@@ -10,3 +10,6 @@ eb setenv  USERNAME_POSTGRES=postgres
 
 
 eb setenv USERNAME=$USERNAME
+
+
+eb setenv USERNAME11=Ahmed
